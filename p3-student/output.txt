@@ -1,0 +1,20 @@
+Producer #1, time = 1583362898, producing data item #2, item value=1804289383
+Producer #1, time = 1583362898, producing data item #4, item value=1714636915
+Producer #1, time = 1583362898, producing data item #5, item value=1957747793
+Producer #2, time = 1583362898, producing data item #6, item value=846930886
+Producer #0, time = 1583362898, producing data item #7, item value=1681692777
+Consumer #1, time = 1583362898, consuming data item with value1804289383
+Consumer #1, time = 1583362898, consuming data item with value1681692777
+Consumer #1, time = 1583362898, consuming data item with value1714636915
+Consumer #1, time = 1583362898, consuming data item with value1957747793
+Consumer #1, time = 1583362898, consuming data item with value424238335
+Consumer #1, time = 1583362898, consuming data item with value719885386
+Producer #0, time = 1583362898, producing data item #8, item value=1649760492
+Producer #0, time = 1583362898, producing data item #9, item value=596516649
+Producer #0, time = 1583362898, producing data item #10, item value=1189641421
+Consumer #3, time = 1583362898, consuming data item with value1649760492
+Consumer #3, time = 1583362898, consuming data item with value1189641421
+Producer #2, time = 1583362898, producing data item #10, item value=719885386
+Consumer #1, time = 1583362898, consuming data item with value596516649
+Consumer #2, time = 1583362898, consuming data item with value846930886
+Producer #1, time = 1583362898, producing data item #10, item value=424238335
